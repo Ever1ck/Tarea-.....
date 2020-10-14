@@ -1,0 +1,7 @@
+CREATE TABLE persons
+(
+	id	INTEGER PRIMARY KEY ,
+	name	TEXT	NOT NULL,
+        sex	TEXT	NULL,
+        age	INTEGER	NULL
+);
